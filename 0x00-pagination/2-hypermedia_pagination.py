@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Simple helper function."""
 import csv
-from typing import List, Tuple
+from typing import Dict, List, Tuple
 import math
 
 
